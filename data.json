@@ -1,0 +1,43 @@
+{
+  "sell": [
+    {
+      "id": 1,
+      "image": "./assets/image/model_1_bg.jpg",
+      "name": "One West Hoodie",
+      "des": "Lorem ipsum dolor sit amet, consectetur adipisicing."
+    },
+    {
+      "id": 2,
+      "image": "./assets/image/model_2_bg.jpg",
+      "name": "Two West Hoodie",
+      "des": "Lorem ipsum dolor sit amet, consectetur adipisicing."
+    },
+    {
+      "id": 3,
+      "image": "./assets/image/model_3_bg.jpg",
+      "name": "Three West Hoodie",
+      "des": "Lorem ipsum dolor sit amet, consectetur adipisicing."
+    },
+    {
+      "id": 4,
+      "image": "./assets/image/model_4_bg.jpg",
+      "name": "Four West Hoodie",
+      "des": "Lorem ipsum dolor sit amet, consectetur adipisicing."
+    },
+    {
+      "id": 5,
+      "image": "./assets/image/model_5_bg.jpg",
+      "name": "Five West Hoodie",
+      "des": "Lorem ipsum dolor sit amet, consectetur adipisicing."
+    },
+    {
+      "id": 6,
+      "image": "./assets/image/product_1_bg.jpg",
+      "name": "Six West Hoodie",
+      "des": "Lorem ipsum dolor sit amet, consectetur adipisicing."
+    }
+  ],
+  "fav": [
+   
+  ]
+}
